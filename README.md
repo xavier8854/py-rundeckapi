@@ -17,3 +17,6 @@ rundeck = Rundeck(
 
 print(rundeck.get("system/info"))
 ```
+# Disclaimer :
+
+This is an alpha version, please report bugs to <xavier@amdh.fr>
